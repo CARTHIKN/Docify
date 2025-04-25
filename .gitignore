@@ -1,0 +1,10 @@
+env
+*.idea
+*.pyc
+static_cdn/*
+/myenv/
+.vscode
+.env
+venv
+gcp-*
+venv/
